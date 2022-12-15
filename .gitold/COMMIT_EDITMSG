@@ -1,0 +1,4 @@
+Merge branch 'main' of https://github.com/hamamulwidya/bmi into HEAD
+
+# Conflicts:
+#	lib/views/bmi_data_screen.dart

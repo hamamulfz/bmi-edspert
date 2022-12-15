@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 b9fe61b0c65a9229b2770fbc7adb82060946cb93 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652157403 +0700	commit (initial): bmi basic screen
+b9fe61b0c65a9229b2770fbc7adb82060946cb93 a599b512351ef0fe6e64fbec3276cc009414bc64 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652158588 +0700	commit: appbar theme
+a599b512351ef0fe6e64fbec3276cc009414bc64 4542f664ccfb3c63723cadac85a214c26b2af0c7 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652159440 +0700	commit: car gender
+4542f664ccfb3c63723cadac85a214c26b2af0c7 8de4576b827af6e6a0db6214a010d65bca4f4c93 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652159932 +0700	commit: adust gender design
+8de4576b827af6e6a0db6214a010d65bca4f4c93 ab7313528ef43a125699e687840f6715fa06cbe9 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652163367 +0700	commit: struktur folder dan custom widget
+ab7313528ef43a125699e687840f6715fa06cbe9 3fa86afe9d855d82f6048ab7f2d8f59fd3da754d Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652174396 +0700	commit: ui height
+3fa86afe9d855d82f6048ab7f2d8f59fd3da754d 8cbbb93c00d28a48d9014964240e23f1700b2377 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652174898 +0700	commit: height section styl
+8cbbb93c00d28a48d9014964240e23f1700b2377 318e3834153c017d46659c61f28009320ec9f024 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652175574 +0700	commit: ui age and weight section
+318e3834153c017d46659c61f28009320ec9f024 85e3830cec1259d90785013bebbdf11ad1ed5310 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652175834 +0700	commit: ui tombol hitung
+85e3830cec1259d90785013bebbdf11ad1ed5310 bc78672188917e192f0c81a9b2fcd968b06bbe35 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652185028 +0700	commit: fungsional tombol umur dan berat
+bc78672188917e192f0c81a9b2fcd968b06bbe35 e6cc4bc19ba73f9024baa21e4ef31f3b8c806f13 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652185035 +0700	commit: ui halaman hasil
+e6cc4bc19ba73f9024baa21e4ef31f3b8c806f13 ba38e7b6932bb31ce9a92bfba484823a746f8b41 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652445733 +0700	commit: calculate bmi
+ba38e7b6932bb31ce9a92bfba484823a746f8b41 39e7443ea0d9d172095bad77c3f1cc2c4d5e9939 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652446545 +0700	commit: if else range
+39e7443ea0d9d172095bad77c3f1cc2c4d5e9939 06afd108d3753794503adb16189a11208a42459f Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652446892 +0700	commit: simplify if else
+06afd108d3753794503adb16189a11208a42459f 5a726b336b3084f38d99a91f25a7ce23370889f5 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652446903 +0700	commit: simplify if else
+5a726b336b3084f38d99a91f25a7ce23370889f5 67f0c3336ff4b294855c8410641f9d87c0476cd0 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652447439 +0700	commit: switch
+67f0c3336ff4b294855c8410641f9d87c0476cd0 95030e831a1d21df56c3bc3018ff4060619cb0f0 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652447607 +0700	commit: simplify switch
+95030e831a1d21df56c3bc3018ff4060619cb0f0 a832c5181b46023f9efb98a42ecea97a820d0963 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652448657 +0700	commit: on click gender
+a832c5181b46023f9efb98a42ecea97a820d0963 a36ec779714bed3907efbd95ed12ba0216d7e0c5 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652449719 +0700	commit: linter recommendation
+a36ec779714bed3907efbd95ed12ba0216d7e0c5 274ec36b78eb901b2c3002ba6ca8a856ba6fbff6 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1652452156 +0700	commit: oop bmi
+274ec36b78eb901b2c3002ba6ca8a856ba6fbff6 2802702775c7d7eaf0620d8f9f3ffea8f1562d06 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1653115356 +0700	commit: ui modification
+2802702775c7d7eaf0620d8f9f3ffea8f1562d06 2802702775c7d7eaf0620d8f9f3ffea8f1562d06 Hamamul Fauzi <hamamul.fauzi@gmail.com> 1653115366 +0700	Branch: renamed refs/heads/main to refs/heads/main
+2802702775c7d7eaf0620d8f9f3ffea8f1562d06 070ec3f0564a82399b3a3e9554dd6911b428055d Hamamul Fauzi <hamamul.fauzi@gmail.com> 1653453666 +0700	rebase (finish): refs/heads/main onto 070ec3f0564a82399b3a3e9554dd6911b428055d
